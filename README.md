@@ -6,27 +6,27 @@ To install just clone/download and place any of the folders you want in /usr/sha
 Added all of the gruvbox colors:
 |gruvbox color|example|
 |:---:|:---:|
-|gruvbox-red-bright <i>(#fb4934)</i>|<img src="https://raw.githubusercontent.com/2kpr/adwaita-icon-theme-gruvbox/refs/heads/master/Adwaita-gruvbox-red-bright/scalable/places/user-home.svg" width=64>|
-|gruvbox-green-bright <i>(#b8bb26)</i>|<img src="https://raw.githubusercontent.com/2kpr/adwaita-icon-theme-gruvbox/refs/heads/master/Adwaita-gruvbox-green-bright/scalable/places/user-home.svg" width=64>|
-|gruvbox-yellow-bright <i>(#fabd2f)</i>|<img src="https://raw.githubusercontent.com/2kpr/adwaita-icon-theme-gruvbox/refs/heads/master/Adwaita-gruvbox-yellow-bright/scalable/places/user-home.svg" width=64>|
-|gruvbox-blue-bright <i>(#83a598)</i>|<img src="https://raw.githubusercontent.com/2kpr/adwaita-icon-theme-gruvbox/refs/heads/master/Adwaita-gruvbox-blue-bright/scalable/places/user-home.svg" width=64>|
-|gruvbox-purple-bright <i>(#d3869b)</i>|<img src="https://raw.githubusercontent.com/2kpr/adwaita-icon-theme-gruvbox/refs/heads/master/Adwaita-gruvbox-purple-bright/scalable/places/user-home.svg" width=64>|
-|gruvbox-aqua-bright <i>(#8ec07c)</i>|<img src="https://raw.githubusercontent.com/2kpr/adwaita-icon-theme-gruvbox/refs/heads/master/Adwaita-gruvbox-aqua-bright/scalable/places/user-home.svg" width=64>|
-|gruvbox-orange-bright <i>(#fe8019)</i>|<img src="https://raw.githubusercontent.com/2kpr/adwaita-icon-theme-gruvbox/refs/heads/master/Adwaita-gruvbox-orange-bright/scalable/places/user-home.svg" width=64>|
-|gruvbox-red-neutral <i>(#cc241d)</i>|<img src="https://raw.githubusercontent.com/2kpr/adwaita-icon-theme-gruvbox/refs/heads/master/Adwaita-gruvbox-red-neutral/scalable/places/user-home.svg" width=64>|
-|gruvbox-green-neutral <i>(#98971a)</i>|<img src="https://raw.githubusercontent.com/2kpr/adwaita-icon-theme-gruvbox/refs/heads/master/Adwaita-gruvbox-green-neutral/scalable/places/user-home.svg" width=64>|
-|gruvbox-yellow-neutral <i>(#d79921)</i>|<img src="https://raw.githubusercontent.com/2kpr/adwaita-icon-theme-gruvbox/refs/heads/master/Adwaita-gruvbox-yellow-neutral/scalable/places/user-home.svg" width=64>|
-|gruvbox-blue-neutral <i>(#458588)</i>|<img src="https://raw.githubusercontent.com/2kpr/adwaita-icon-theme-gruvbox/refs/heads/master/Adwaita-gruvbox-blue-neutral/scalable/places/user-home.svg" width=64>|
-|gruvbox-purple-neutral <i>(#b16286)</i>|<img src="https://raw.githubusercontent.com/2kpr/adwaita-icon-theme-gruvbox/refs/heads/master/Adwaita-gruvbox-purple-neutral/scalable/places/user-home.svg" width=64>|
-|gruvbox-aqua-neutral <i>(#689d6a)</i>|<img src="https://raw.githubusercontent.com/2kpr/adwaita-icon-theme-gruvbox/refs/heads/master/Adwaita-gruvbox-aqua-neutral/scalable/places/user-home.svg" width=64>|
-|gruvbox-orange-neutral <i>(#d65d0e)</i>|<img src="https://raw.githubusercontent.com/2kpr/adwaita-icon-theme-gruvbox/refs/heads/master/Adwaita-gruvbox-orange-neutral/scalable/places/user-home.svg" width=64>|
-|gruvbox-red-faded <i>(#9d0006)</i>|<img src="https://raw.githubusercontent.com/2kpr/adwaita-icon-theme-gruvbox/refs/heads/master/Adwaita-gruvbox-red-faded/scalable/places/user-home.svg" width=64>|
-|gruvbox-green-faded <i>(#79740e)</i>|<img src="https://raw.githubusercontent.com/2kpr/adwaita-icon-theme-gruvbox/refs/heads/master/Adwaita-gruvbox-green-faded/scalable/places/user-home.svg" width=64>|
-|gruvbox-yellow-faded <i>(#b57614)</i>|<img src="https://raw.githubusercontent.com/2kpr/adwaita-icon-theme-gruvbox/refs/heads/master/Adwaita-gruvbox-yellow-faded/scalable/places/user-home.svg" width=64>|
-|gruvbox-blue-faded <i>(#076678)</i>|<img src="https://raw.githubusercontent.com/2kpr/adwaita-icon-theme-gruvbox/refs/heads/master/Adwaita-gruvbox-blue-faded/scalable/places/user-home.svg" width=64>|
-|gruvbox-purple-faded <i>(#8f3f71)</i>|<img src="https://raw.githubusercontent.com/2kpr/adwaita-icon-theme-gruvbox/refs/heads/master/Adwaita-gruvbox-purple-faded/scalable/places/user-home.svg" width=64>|
-|gruvbox-aqua-faded <i>(#427b58)</i>|<img src="https://raw.githubusercontent.com/2kpr/adwaita-icon-theme-gruvbox/refs/heads/master/Adwaita-gruvbox-aqua-faded/scalable/places/user-home.svg" width=64>|
-|gruvbox-orange-faded <i>(#af3a03)</i>|<img src="https://raw.githubusercontent.com/2kpr/adwaita-icon-theme-gruvbox/refs/heads/master/Adwaita-gruvbox-orange-faded/scalable/places/user-home.svg" width=64>|
+|gruvbox-red-bright <i>(#fb4934)</i>|<img src="https://raw.githubusercontent.com/2kpr/adwaita-icon-theme-gruvbox/refs/heads/master/Adwaita-gruvbox-red-bright/scalable/places/user-home.svg">|
+|gruvbox-green-bright <i>(#b8bb26)</i>|<img src="https://raw.githubusercontent.com/2kpr/adwaita-icon-theme-gruvbox/refs/heads/master/Adwaita-gruvbox-green-bright/scalable/places/user-home.svg">|
+|gruvbox-yellow-bright <i>(#fabd2f)</i>|<img src="https://raw.githubusercontent.com/2kpr/adwaita-icon-theme-gruvbox/refs/heads/master/Adwaita-gruvbox-yellow-bright/scalable/places/user-home.svg">|
+|gruvbox-blue-bright <i>(#83a598)</i>|<img src="https://raw.githubusercontent.com/2kpr/adwaita-icon-theme-gruvbox/refs/heads/master/Adwaita-gruvbox-blue-bright/scalable/places/user-home.svg">|
+|gruvbox-purple-bright <i>(#d3869b)</i>|<img src="https://raw.githubusercontent.com/2kpr/adwaita-icon-theme-gruvbox/refs/heads/master/Adwaita-gruvbox-purple-bright/scalable/places/user-home.svg">|
+|gruvbox-aqua-bright <i>(#8ec07c)</i>|<img src="https://raw.githubusercontent.com/2kpr/adwaita-icon-theme-gruvbox/refs/heads/master/Adwaita-gruvbox-aqua-bright/scalable/places/user-home.svg">|
+|gruvbox-orange-bright <i>(#fe8019)</i>|<img src="https://raw.githubusercontent.com/2kpr/adwaita-icon-theme-gruvbox/refs/heads/master/Adwaita-gruvbox-orange-bright/scalable/places/user-home.svg">|
+|gruvbox-red-neutral <i>(#cc241d)</i>|<img src="https://raw.githubusercontent.com/2kpr/adwaita-icon-theme-gruvbox/refs/heads/master/Adwaita-gruvbox-red-neutral/scalable/places/user-home.svg">|
+|gruvbox-green-neutral <i>(#98971a)</i>|<img src="https://raw.githubusercontent.com/2kpr/adwaita-icon-theme-gruvbox/refs/heads/master/Adwaita-gruvbox-green-neutral/scalable/places/user-home.svg">|
+|gruvbox-yellow-neutral <i>(#d79921)</i>|<img src="https://raw.githubusercontent.com/2kpr/adwaita-icon-theme-gruvbox/refs/heads/master/Adwaita-gruvbox-yellow-neutral/scalable/places/user-home.svg">|
+|gruvbox-blue-neutral <i>(#458588)</i>|<img src="https://raw.githubusercontent.com/2kpr/adwaita-icon-theme-gruvbox/refs/heads/master/Adwaita-gruvbox-blue-neutral/scalable/places/user-home.svg">|
+|gruvbox-purple-neutral <i>(#b16286)</i>|<img src="https://raw.githubusercontent.com/2kpr/adwaita-icon-theme-gruvbox/refs/heads/master/Adwaita-gruvbox-purple-neutral/scalable/places/user-home.svg">|
+|gruvbox-aqua-neutral <i>(#689d6a)</i>|<img src="https://raw.githubusercontent.com/2kpr/adwaita-icon-theme-gruvbox/refs/heads/master/Adwaita-gruvbox-aqua-neutral/scalable/places/user-home.svg">|
+|gruvbox-orange-neutral <i>(#d65d0e)</i>|<img src="https://raw.githubusercontent.com/2kpr/adwaita-icon-theme-gruvbox/refs/heads/master/Adwaita-gruvbox-orange-neutral/scalable/places/user-home.svg">|
+|gruvbox-red-faded <i>(#9d0006)</i>|<img src="https://raw.githubusercontent.com/2kpr/adwaita-icon-theme-gruvbox/refs/heads/master/Adwaita-gruvbox-red-faded/scalable/places/user-home.svg">|
+|gruvbox-green-faded <i>(#79740e)</i>|<img src="https://raw.githubusercontent.com/2kpr/adwaita-icon-theme-gruvbox/refs/heads/master/Adwaita-gruvbox-green-faded/scalable/places/user-home.svg">|
+|gruvbox-yellow-faded <i>(#b57614)</i>|<img src="https://raw.githubusercontent.com/2kpr/adwaita-icon-theme-gruvbox/refs/heads/master/Adwaita-gruvbox-yellow-faded/scalable/places/user-home.svg">|
+|gruvbox-blue-faded <i>(#076678)</i>|<img src="https://raw.githubusercontent.com/2kpr/adwaita-icon-theme-gruvbox/refs/heads/master/Adwaita-gruvbox-blue-faded/scalable/places/user-home.svg">|
+|gruvbox-purple-faded <i>(#8f3f71)</i>|<img src="https://raw.githubusercontent.com/2kpr/adwaita-icon-theme-gruvbox/refs/heads/master/Adwaita-gruvbox-purple-faded/scalable/places/user-home.svg">|
+|gruvbox-aqua-faded <i>(#427b58)</i>|<img src="https://raw.githubusercontent.com/2kpr/adwaita-icon-theme-gruvbox/refs/heads/master/Adwaita-gruvbox-aqua-faded/scalable/places/user-home.svg">|
+|gruvbox-orange-faded <i>(#af3a03)</i>|<img src="https://raw.githubusercontent.com/2kpr/adwaita-icon-theme-gruvbox/refs/heads/master/Adwaita-gruvbox-orange-faded/scalable/places/user-home.svg">|
 
 
 
